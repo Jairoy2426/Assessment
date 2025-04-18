@@ -12,7 +12,7 @@ Follow these steps:
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
-git clone <[YOUR_GIT_URL](https://github.com/Jairoy2426/Assessment.git)>
+git clone <[GIT_URL]>
 
 # Step 2: Navigate to the project directory.
 cd <Referal System>
