@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: [Your Project URL]
+**URL**: [point-pal-refer.vercel.app]
 
 ## How can I edit this code?
 
